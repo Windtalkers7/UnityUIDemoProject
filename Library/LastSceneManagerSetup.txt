@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/dingxiaowei-scrollrect-master/scrollrect/Assets/Demo/ScaleScrollRectNew1.unity
+  isLoaded: 1
+  isActive: 1
