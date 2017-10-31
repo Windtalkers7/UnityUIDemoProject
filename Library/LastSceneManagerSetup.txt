@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/dingxiaowei-scrollrect-master/scrollrect/Assets/Demo/DemoScene.unity
-  isLoaded: 1
-  isActive: 1
