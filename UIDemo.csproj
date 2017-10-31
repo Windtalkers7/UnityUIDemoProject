@@ -109,6 +109,7 @@
     <Compile Include="Assets\dingxiaowei-scrollrect-master\scrollrect\Assets\Scripts\LoopVerticalScrollRect.cs" />
     <Compile Include="Assets\dingxiaowei-scrollrect-master\scrollrect\Assets\Scripts\ScaleScrollView\CFixScaleScrollView.cs" />
     <Compile Include="Assets\dingxiaowei-scrollrect-master\scrollrect\Assets\Scripts\ScaleScrollView\CScaleScrollView.cs" />
+    <Compile Include="Assets\dingxiaowei-scrollrect-master\scrollrect\Assets\Scripts\TestAddScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\dingxiaowei-scrollrect-master\scrollrect\Assets\ThirdParty\DOTween\DOTween.XML" />
