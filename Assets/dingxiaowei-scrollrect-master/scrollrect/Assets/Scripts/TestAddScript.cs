@@ -8,5 +8,8 @@ public class TestAddScript : MonoBehaviour
     {
         //UIDemo工程下提交的代码
         Debug.Log("提交者UIDemo");
+
+        //TestUIDemo工程下提交代码
+        Debug.Log("提交的第一条信心");
     }
 }
