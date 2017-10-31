@@ -7,9 +7,12 @@ public class TestAddScript : MonoBehaviour
     void TestCommitCode()
     {
         //UIDemo工程下提交的代码
-        Debug.Log("提交者UIDemo");
+        Debug.Log("提交的第一条信息");
+        Debug.Log("提交的第二条信息");
 
         //TestUIDemo工程下提交代码
-        Debug.Log("提交的第一条信心");
+        Debug.Log("提交的第一条信息");
+
+
     }
 }
